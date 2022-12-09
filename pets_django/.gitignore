@@ -1,0 +1,8 @@
+venvE/
+db.sqlite3
+*.pyc
+*/*.pyc
+*/*/*.pyc
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
